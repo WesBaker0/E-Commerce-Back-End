@@ -11,14 +11,23 @@ https://github.com/WesBaker0/E-Commerce-Back-End/assets/131714206/12e12644-dad7-
 
 https://github.com/WesBaker0/E-Commerce-Back-End/assets/131714206/19a8eab5-1f31-4bde-89e1-a6ed57ace570
 
+
+
 ## Installation
 
 1. Clone this GitHub repository
+
 2. Install all dependent npm packages
+
 3. Create a .env file and include your MySQL user/password information. See `.env.EXAMPLE` in the repository.
+
 4. Create the database using the `schema.sql` file in the MySQL shell.
+
 5. Seed the database with example data
+ 
 6. Start the application with Express.js
+
+
 
 ## Usage
 
@@ -32,6 +41,8 @@ The application allows you to view, add, update, and delete categories, products
 - GET, POST, PUT, DELETE `/api/products`
 3. Tags
 - GET, POST, PUT, DELETE `/api/tags`
+
+
 
 ## Changes Made
 
