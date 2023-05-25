@@ -7,6 +7,10 @@ This is an enhanced version of the E-commerce backend application built with Nod
 - [Usage](#usage)
 - [Changes Made](#changes-made)
 
+https://github.com/WesBaker0/E-Commerce-Back-End/assets/131714206/12e12644-dad7-42ac-9606-839fb9199a2f
+
+https://github.com/WesBaker0/E-Commerce-Back-End/assets/131714206/19a8eab5-1f31-4bde-89e1-a6ed57ace570
+
 ## Installation
 
 1. Clone this GitHub repository
