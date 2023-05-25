@@ -3,9 +3,9 @@
 This is an enhanced version of the E-commerce backend application built with Node.js, Express.js, and Sequelize ORM to interact with a MySQL database. This application serves as an API that can be used to manage a simple E-commerce website.
 
 ## Table of Contents
-###- [Installation](#installation)
-###- [Usage](#usage)
-###- [Changes Made](#changes-made)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Changes Made](#changes-made)
 
 https://github.com/WesBaker0/E-Commerce-Back-End/assets/131714206/12e12644-dad7-42ac-9606-839fb9199a2f
 
